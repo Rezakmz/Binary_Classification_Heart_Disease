@@ -1,7 +1,7 @@
 # Binary_Classification_Heart_Disease
 This project involves creating a logistic regression algorithm from scratch and then comparing the results with Sklearn's LogisticRegression model. The dataset used in this project is information about the patients, and the target variable is to predict whether a person is prone to heart disease. The attributes of this dataset are as follows:
 
-age: The person's age in years
+__age:__ The person's age in years
 
 sex: The person's sex (1 = male, 0 = female)
 
